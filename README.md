@@ -68,7 +68,7 @@ Das Projekt simuliert grundlegende Funktionen eines Fahrzeug- oder Flottenverwal
 ```
 fahrzeug.py   → Fahrzeugklassen & Preisregeln
 manager.py    → Verwaltung & Operationen
-utils.py      → Eingabeprüfung
+helper.py      → Eingabeprüfung
 main.py       → Hauptprogramm & Menü
 README.md     → Dokumentation
 ```
@@ -103,4 +103,5 @@ Jay Oza
 Version 1.0
 
 ---
+
 
